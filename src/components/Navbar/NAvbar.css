@@ -1,0 +1,32 @@
+.nav-menu{
+    align-items: center;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+    display: flex;
+    gap: 90px;
+    padding-right: 20px;
+    
+}
+.nav{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: Outfit;
+    font-size: 30px;
+    padding-left: 40px;
+    
+}
+.nav-logo{
+    font-size: 80px;
+    padding-right: 20px;
+}
+
+.nav-cont{
+    background: white;
+    border-radius: 10px;
+    color: black;
+    padding: 2px 20px 2px 20px;
+    /* border: 1px so  lid red; */
+}
